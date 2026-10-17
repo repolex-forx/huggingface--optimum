@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/huggingface/optimum/commit/0df84f23884f7c5b6cc76c0bdc9597edd306034f",
       "git:hexsha": "0df84f23884f7c5b6cc76c0bdc9597edd306034f",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-17T01:52:34.783543+00:00"
     },
     {
       "@id": "https://repolex.ai/r/huggingface/optimum/commit/b882a4a3987ff180382bfd901da92d29dc6e9200",
